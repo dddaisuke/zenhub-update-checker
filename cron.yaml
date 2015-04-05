@@ -1,0 +1,4 @@
+cron:
+- description: check zehub update
+  url: /zenhub
+  schedule: every 1 mins
